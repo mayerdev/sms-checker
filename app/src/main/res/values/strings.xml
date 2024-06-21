@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmsChecker</string>
+    <string name="notificationlistener">NotificationListener</string>
+</resources>
